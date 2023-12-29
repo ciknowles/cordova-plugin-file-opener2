@@ -13,7 +13,7 @@
         <engine name="cordova-electron" version=">=4.0.0"/>
     </engines>
 
-    <dependency id="cordova-plugin-file" version=">=8.1.0" />
+    <dependency id="cordova-plugin-file" version=">=8.0.1" />
 
     <js-module src="www/plugins.FileOpener2.js" name="FileOpener2">
         <clobbers target="cordova.plugins.fileOpener2"/>
