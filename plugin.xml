@@ -45,7 +45,7 @@
         <source-file src="src/android/res/xml/opener_paths.xml" target-dir="res/xml"/>
         <framework src="androidx.appcompat:appcompat:1.0.0"/>
     </platform>
-    1
+    
 
     <!-- iOS -->
     <platform name="ios">
